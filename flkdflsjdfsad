@@ -1,0 +1,36 @@
+[33mcommit be8b915f13ec2680b65ad9e34e3e2c2778d214ff[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mNoa_Lab5[m[33m)[m
+Merge: f15a17e b556e0b
+Author: Noa Zijlmans <n.zijlmans@student.tudelft.nl>
+Date:   Wed Sep 28 12:20:51 2022 +0200
+
+    resolving error
+
+[33mcommit f15a17e2645c45dc255b2bbb539cde9786d1db56[m[33m ([m[1;31morigin/Noa_lab5[m[33m)[m
+Author: Noa Zijlmans <n.zijlmans@student.tudelft.nl>
+Date:   Wed Sep 28 11:58:48 2022 +0200
+
+    Studienummer
+
+[33mcommit b556e0be6e3d86ac1afadbefd367c6c8b83458b5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Chaja_lab5[m[33m)[m
+Author: chajaschwab <chaja.schwab@live.nl>
+Date:   Wed Sep 28 11:57:00 2022 +0200
+
+    Mijn studienummer mapje
+
+[33mcommit 7425eaa0ae08ad43ea189ee8e8b03775e152f424[m
+Author: Noa Zijlmans <n.zijlmans@student.tudelft.nl>
+Date:   Wed Sep 28 11:40:11 2022 +0200
+
+    Updated files
+
+[33mcommit 47e6664919c67b7c834617bf8e0e161c5f333389[m
+Author: chajaschwab <chaja.schwab@live.nl>
+Date:   Wed Sep 28 11:36:20 2022 +0200
+
+    lab 5 is added
+
+[33mcommit 74ecb8cee624d684e9be7ef8edecd6c218ea7016[m
+Author: elijnen <112644377+elijnen@users.noreply.github.com>
+Date:   Wed Sep 28 07:39:53 2022 +0000
+
+    Initial commit
